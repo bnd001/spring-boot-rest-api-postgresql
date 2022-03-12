@@ -1,7 +1,7 @@
-package com.hendisantika.springbootrestapipostgresql.controller;
+package com.sboot.springbootrestapipostgresql.controller;
 
-import com.hendisantika.springbootrestapipostgresql.entity.Book;
-import com.hendisantika.springbootrestapipostgresql.repository.BookRepository;
+import com.sboot.springbootrestapipostgresql.entity.Book;
+import com.sboot.springbootrestapipostgresql.repository.BookRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

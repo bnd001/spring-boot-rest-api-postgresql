@@ -1,6 +1,6 @@
-package com.hendisantika.springbootrestapipostgresql.repository;
+package com.sboot.springbootrestapipostgresql.repository;
 
-import com.hendisantika.springbootrestapipostgresql.entity.Book;
+import com.sboot.springbootrestapipostgresql.entity.Book;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.rest.core.annotation.RepositoryRestResource;
 

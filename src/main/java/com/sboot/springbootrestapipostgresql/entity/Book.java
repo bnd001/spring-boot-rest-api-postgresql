@@ -1,4 +1,4 @@
-package com.hendisantika.springbootrestapipostgresql.entity;
+package com.sboot.springbootrestapipostgresql.entity;
 
 import javax.persistence.*;
 import java.util.ArrayList;
